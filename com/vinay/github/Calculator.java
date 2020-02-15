@@ -24,7 +24,7 @@ public class Calculator {
 		b=40;
 		c=a*b;
 		return c;
-		
+		//comment
 	}
 	
 		public static void main(String[] args) {
